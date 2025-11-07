@@ -1,16 +1,25 @@
-## Hi there 👋
+# Nsomah Doris Anyane - Professional Portfolio
 
-<!--
-**Nsomahdoris/Nsomahdoris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 *Live Website:* https://nsomahdoris.github.io
 
-Here are some ideas to get you started:
+## About This Portfolio
+This is my professional portfolio website showcasing my skills in:
+- Data Analysis & Visualization
+- AI-Powered Content Creation  
+- Technical Documentation
+- Digital Marketing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills Featured
+- *AI Tools:* Suno AI, Gemma, Canva, CapCut, ChatGPT, Gemini
+- *Data Analysis:* Power BI, Excel, Python, MySQL
+- *Development:* Cursor AI, Qoder AI, Arduino, IoT
+- *Documentation:* Technical writing, process documentation, executive summaries
+
+## Contact
+- 📧 Email: anyanedoris03@gmail.com
+- 📞 Phone: ‪+233 24 729 0980‬
+- 💼 LinkedIn: linkedin.com/in/anyane-nsomah-doris
+- 💻 GitHub: github.com/nsomahdoris
+
+---
+Built with pure HTML, CSS, and JavaScript - Deployed via GitHub Pages
